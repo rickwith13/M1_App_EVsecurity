@@ -16,3 +16,6 @@ Finally the Timeline for this project is very less and we can implement this in 
 
 **Defining Our System**
 
+**SWOT ANALYSIS**
+
+
