@@ -1,2 +1,3 @@
 # M1_App_EVsecurity
-addition of high security and safety measures to an electric vehicle 
+Addition of high security and safety measures to an electric vehicle 
+This project is about increasing the safety and security of an electric vehicle.Nowadays all are busy in their scheduled lifecycle and while driving a vehicle the person who rides the bike forget that he removed the side stand and by this so many accidents occur and the scond parameter is security for an electric vehicle there will be a key and if worst cases without the key the vehicle starts ignition and to overcome this problem we increase the security level as to start ignition with the fingerprint of the rider so the vehiclesecurity increases and it is theft free.
